@@ -1,4 +1,4 @@
-# K-means-Clustering-Covid-dataset
+# K-means-Clustering-Covid-data analysis
 
 Coronavirus disease 2019 (COVID-19) is a contagious disease caused by a virus, the severe acute
 respiratory syndrome coronavirus 2 (SARS-CoV-2). The first known case was identified in Wuhan, China, in
